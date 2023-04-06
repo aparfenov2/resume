@@ -1,0 +1,19 @@
+- task1 - restore line using point cloud
+	PCA - uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables (principal components)
+- task2 - find all pixels that are floor
+	RANSAC - Random sample consensus - iterative method to estimate parameters of a mathematical model from a set of observed data that contains outliers
+		- outlier detection method.
+task 3 Corner Detector, 
+task 4 least squares - find rot/trans of camera
+task 5		
+	mean shift - is a procedure for locating the maxima of a density function given discrete data sampled from that function
+		k-means clustering
+	ICP - Iterative closest point - one point cloud, the reference, is kept fixed, while the other one, the source, is transformed to best match the reference.
+			- iteratively revises the transformation (combination of translation and rotation) needed to minimize an error
+task 6 SLIC (uses k-means)
+task 7 HOG KNN
+	SVM - discriminative classifier formally defined by a separating hyperplane
+			-  given labeled training data  the algorithm outputs an optimal hyperplane which categorizes new examples.
+image descriptors
+	feature detector - is an algorithm which takes an image and outputs locations of significant areas in image
+	feature descriptor is an algorithm which takes an image and outputs feature descriptors/feature vectors - a sort of numerical "fingerprint" that can be used to differentiate one feature from another
