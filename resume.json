@@ -1,6 +1,5 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Aleksey Parfyonov",
     "label": "Computer Vision/Machine Learning Engineer",
@@ -251,6 +250,7 @@
   "references": [],
   "projects": [],
   "meta": {
+    "theme": "elegant",
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
