@@ -1,0 +1,257 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": { "theme": "elegant" },
+  "basics": {
+    "name": "Aleksey Parfyonov",
+    "label": "Computer Vision/Machine Learning Engineer",
+    "image": "",
+    "email": "kantengri3@gmail.com",
+    "phone": "",
+    "url": "https://t.me/aparfenov2",
+    "summary": "Key skills: Python, C++, Java",
+    "location": {
+      "countryCode": "US",
+      "address": "Russia, Chelyabinsk"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aparfenov2",
+        "url": "https://www.linkedin.com/in/aparfenov2/"
+      },
+      {
+        "network": "Telegram",
+        "username": "aparfenov2",
+        "url": "https://t.me/aparfenov2"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NIIIT-RK",
+      "position": "C++/Python Software Engineer",
+      "startDate": "2022-10-31",
+      "endDate": "2023-04-31",
+      "highlights": [],
+      "summary": "ML experiments with time-series prediction models (Python, Pytorch, numpy, OpenCV).\nQt app development (Python, C++, Qt. QML, ROS2).",
+      "url": "http://niiit-rk.ru/",
+      "location": "Chelyabinsk, Russia"
+    },
+    {
+      "name": "ITS Partner",
+      "position": "Computer Vision/Machine Learning Engineer",
+      "startDate": "2018-12-31",
+      "endDate": "2022-05-31",
+      "highlights": [],
+      "summary": "Developing, training, optimizing and evaluating machine learning models,\ndata preparation, annotation. Deploying machine learning components on the backend.\nAchieved 80% accuracy at raw color recognition task.\nTools and frameworks: C++/Python. PyTorch, tensorflow, mmdetection. CVAT. \nHardware acceleration with GPU/CUDA.\nLinux, Docker, CI/CD.",
+      "url": "https://www.linkedin.com/company/its-partner/",
+      "location": "Minsk, Belarus"
+    },
+    {
+      "name": "Rocket Software",
+      "position": "Java Developer",
+      "startDate": "2014-11-30",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "summary": "Developed JDBC driver for Mainframe Database.\nUsed Java Core, Collections, ByteBuffers, Reflection, Networking, Custom protocol, Cryptography: AES, Kerberos, multithreading, regex, OOP, patterns, Unit Testing, Functional Testing, Knowledge Transfer/Reuse from ODBC team.\n• Developed Eclipse database UI. Used Eclipse RCP, Legacy Code, Refactoring, Code reuse, SWT.\n• Led a team of engineers to write a database web UI and entered it into Rocket Software's Boston hackathon. Used Spring Boot, Hibernate, DOJO.\n• Work in an international team, weekly meetings, Git, Subversion, Test Driven Development, QA, build automation with Bamboo, task management with Jira.\nRTS",
+      "url": "https://www.linkedin.com/company/rocket-software/",
+      "location": "Chelyabinsk Region, Russian Federation"
+    },
+    {
+      "name": "3DiVi Inc.",
+      "position": "Software Developer intern",
+      "startDate": "2017-09-30",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "During training developed basic hand and face detector for RGB-D image source and won 2nd place with it at local competition.\n• Synthesis and augmentation of training data with 3D modelling software Blender. Training and validation of convolutional neural networks. Python: Keras, Tensorflow.\n• Covered Topics: PCA, RANSAC, non-max supression, eigenvalues, rotation matrix, quaternions, LSQ, mean shift, ICP, SLIC, SVM, HOG, KNN, SIFT, matching, neural networks basics",
+      "url": "https://www.linkedin.com/company/3divi-company/",
+      "location": "Chelyabinsk Region, Russian Federation"
+    },
+    {
+      "name": "LANIT-URAL",
+      "position": "Java developer",
+      "startDate": "2012-12-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Developed Electronic-government services and implemented business processes. Used Process Definition Language, web stack (Spring, JavaScript, JQuery, FreeMarker).\n• Implemented online form generator (used ZK framework, FreeMarker) that increased efficiency of templates creation for E-government services environment.",
+      "location": "Chelyabinsk Region, Russian Federation"
+    },
+    {
+      "name": "NPO RTS",
+      "position": "C++\\C# Developer",
+      "startDate": "2010-03-31",
+      "endDate": "2012-10-31",
+      "highlights": [],
+      "summary": "Designed and implemented UI on embedded system for complex embedded equipment. Used OOP, C++, patterns, Protobuf, Microchip Harmony, PIC32, Visual Studio, NIOS II, TI DSP, Custom networking, FPGA, Verilog.\n• Developed version of the UI for Linux embedded platform. Used LFS, configured display driver, kernel, Device Tree Compiler.\n• Developed instrumental and research software with C++, C#, Java for Windows and embedded systems. Applied hardware skills: wiring, soldering, testing, signal measurement with oscilloscope.",
+      "location": "Russian Federation, Chelyabinsk"
+    },
+    {
+      "name": "METRAN IG",
+      "position": "Embedded software engineer",
+      "startDate": "2005-11-30",
+      "endDate": "2008-06-30",
+      "highlights": [],
+      "summary": "Development of the software for a new product line of pressure sensors. Work in a team. Use of  CMMI models.  Use of CASE-tools ClearCase, ClearQuest , iterative development (parts of RUP methodology), UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns. Regular meetings for code review, the use of Scrum-methodology in the development process. quality control using sixSigma DMAIC in the whole company. \nTech : C++, AVR, ATxMega"
+    },
+    {
+      "name": "Interpribor",
+      "position": "hardware engineer",
+      "startDate": "2005-07-31",
+      "endDate": "2005-10-31",
+      "highlights": [],
+      "summary": "1)\tStudy of ZigBee technology and programming of prototype device. \n\tdevelopment of electrical scheme, get familiar with the stack of ZigBee protocols and ZigBee network's topology).  \n\tStudy of CPU Atmel AT90x, TI MSP430\n2)\tDevelopment of digital ultrasonic thickness gauge.\n\tDevelopment of the software to implement algorithm of thickness determination, using СPU Atmel AT90x and FPGA Altera Cyclone. \n\tDevelopment of hardware model of acoustic spectrograph using Verilog language to implement it on FPGA Altera Cyclone. Development and programming on FPGA of the module that searches for the first impulse of acoustic wave, and testing it in emulation mode in the Altera Quartus II development environment. Study of  ModelSim."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "South Ural State University (SUSU)",
+      "area": "Hardware engineering",
+      "studyType": "Bachelor",
+      "startDate": "2001-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Southern Urals State University",
+      "area": "Computer Software Engineering",
+      "studyType": "Master's degree - engineering radioelectronic devices",
+      "startDate": "2001-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Diploma for participance in StarLine Hackathon 2020",
+      "date": "2020-03-31",
+      "awarder": "StarLine",
+      "summary": "https://robofinist.ru/event/info/short/id/339\nhttps://robofinist.ru/api/v1/data/events/diplomas/28771/filename/000-028-771.pdf"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "English  Upper-Intermediate",
+      "issuer": "The Engilsh Club Chelyabinsk",
+      "startDate": "2015-10-31",
+      "url": "http://enclub.ru/"
+    },
+    {
+      "name": "IELTS, score 6",
+      "issuer": "ielts.ru",
+      "endDate": "2019-07-31",
+      "startDate": "2017-07-31"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera",
+      "startDate": "2019-03-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/6WB33V3ULXKB"
+    },
+    {
+      "name": "CUDA Progrmming Masterclass",
+      "issuer": "Udemy",
+      "startDate": "2019-06-30",
+      "url": "https://www.udemy.com/certificate/UC-24TEZUNK/"
+    },
+    {
+      "name": "Self-Driving Cars Specialization",
+      "issuer": "Coursera",
+      "startDate": "2019-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/JYWLBCCDGKFG"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JDBC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OpenCV",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Neural Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Qt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microcontrollers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Vision",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded Software",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
