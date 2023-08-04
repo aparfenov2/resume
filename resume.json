@@ -7,9 +7,9 @@
     "email": "kantengri3@gmail.com",
     "phone": "",
     "url": "https://t.me/aparfenov2",
-    "summary": "Key skills: Python, C++, Java",
+    "summary": "Professional Software Developer with over 10 years of experience. Key skills: Python, C++, Java",
     "location": {
-      "countryCode": "US",
+      "countryCode": "RU",
       "address": "Russia, Chelyabinsk"
     },
     "profiles": [
@@ -31,8 +31,11 @@
       "position": "C++/Python Software Engineer",
       "startDate": "2022-10-31",
       "endDate": "2023-04-31",
-      "highlights": [],
-      "summary": "ML experiments with time-series prediction models (Python, Pytorch, numpy, OpenCV).\nQt app development (Python, C++, Qt. QML, ROS2).",
+      "highlights": [
+        "ML experiments with time-series prediction models (Python, Pytorch, numpy, OpenCV)",
+        "Qt app development (Python, C++, Qt. QML, ROS2)"
+      ],
+      "summary": "",
       "url": "http://niiit-rk.ru/",
       "location": "Chelyabinsk, Russia"
     },
@@ -41,8 +44,11 @@
       "position": "Computer Vision/Machine Learning Engineer",
       "startDate": "2018-12-31",
       "endDate": "2022-05-31",
-      "highlights": [],
-      "summary": "Developing, training, optimizing and evaluating machine learning models,\ndata preparation, annotation. Deploying machine learning components on the backend.\nAchieved 80% accuracy at raw color recognition task.\nTools and frameworks: C++/Python. PyTorch, tensorflow, mmdetection. CVAT. \nHardware acceleration with GPU/CUDA.\nLinux, Docker, CI/CD.",
+      "highlights": [
+        "Developing, training, optimizing and evaluating machine learning models with C++, Python. PyTorch, tensorflow, mmdetection",
+        "Automated data preparation, annotation, CI/CD with CVAT, Linux, Docker"
+      ],
+      "summary": "Development of data pipelines and experimenting with ML approaches",
       "url": "https://www.linkedin.com/company/its-partner/",
       "location": "Minsk, Belarus"
     },
@@ -51,8 +57,14 @@
       "position": "Java Developer",
       "startDate": "2014-11-30",
       "endDate": "2018-12-31",
-      "highlights": [],
-      "summary": "Developed JDBC driver for Mainframe Database.\nUsed Java Core, Collections, ByteBuffers, Reflection, Networking, Custom protocol, Cryptography: AES, Kerberos, multithreading, regex, OOP, patterns, Unit Testing, Functional Testing, Knowledge Transfer/Reuse from ODBC team.\n• Developed Eclipse database UI. Used Eclipse RCP, Legacy Code, Refactoring, Code reuse, SWT.\n• Led a team of engineers to write a database web UI and entered it into Rocket Software's Boston hackathon. Used Spring Boot, Hibernate, DOJO.\n• Work in an international team, weekly meetings, Git, Subversion, Test Driven Development, QA, build automation with Bamboo, task management with Jira.\nRTS",
+      "highlights": [
+        "Developed JDBC driver for Mainframe Database",
+        "Used Java Core, Collections, ByteBuffers, Reflection, Networking, Custom protocol, Cryptography: AES, Kerberos, multithreading, regex, OOP, patterns, Unit Testing, Functional Testing, Knowledge Transfer/Reuse from ODBC team",
+        "Developed Eclipse database UI. Used Eclipse RCP, Legacy Code, Refactoring, Code reuse, SWT", 
+        "Led a team of engineers to write a database web UI and entered it into Rocket Software's Boston hackathon. Used Spring Boot, Hibernate, DOJO",
+        "Work in an international team, weekly meetings, Git, Subversion, Test Driven Development, QA, build automation with Bamboo, task management with Jira"
+      ],
+      "summary": "Java Core software development",
       "url": "https://www.linkedin.com/company/rocket-software/",
       "location": "Chelyabinsk Region, Russian Federation"
     },
@@ -61,8 +73,12 @@
       "position": "Software Developer intern",
       "startDate": "2017-09-30",
       "endDate": "2018-07-31",
-      "highlights": [],
-      "summary": "During training developed basic hand and face detector for RGB-D image source and won 2nd place with it at local competition.\n• Synthesis and augmentation of training data with 3D modelling software Blender. Training and validation of convolutional neural networks. Python: Keras, Tensorflow.\n• Covered Topics: PCA, RANSAC, non-max supression, eigenvalues, rotation matrix, quaternions, LSQ, mean shift, ICP, SLIC, SVM, HOG, KNN, SIFT, matching, neural networks basics",
+      "highlights": [
+        "developed basic hand and face detector for RGB-D image source and won 2nd place with it at local competition",
+        "Synthesis and augmentation of training data with 3D modelling software Blender. Training and validation of convolutional neural networks. Python: Keras, Tensorflow.",
+        "Covered Topics: PCA, RANSAC, non-max supression, eigenvalues, rotation matrix, quaternions, LSQ, mean shift, ICP, SLIC, SVM, HOG, KNN, SIFT, matching, neural networks basics"
+      ],
+      "summary": "Boosting knowledge in ML",
       "url": "https://www.linkedin.com/company/3divi-company/",
       "location": "Chelyabinsk Region, Russian Federation"
     },
@@ -71,8 +87,11 @@
       "position": "Java developer",
       "startDate": "2012-12-31",
       "endDate": "2014-12-31",
-      "highlights": [],
-      "summary": "Developed Electronic-government services and implemented business processes. Used Process Definition Language, web stack (Spring, JavaScript, JQuery, FreeMarker).\n• Implemented online form generator (used ZK framework, FreeMarker) that increased efficiency of templates creation for E-government services environment.",
+      "highlights": [
+        "Used Process Definition Language, web stack (Spring, JavaScript, JQuery, FreeMarker)",
+        "Implemented online form generator (used ZK framework, FreeMarker) that increased efficiency of templates creation for E-government services environment"
+      ],
+      "summary": "Developed Electronic-government services and implemented business processes",
       "location": "Chelyabinsk Region, Russian Federation"
     },
     {
@@ -80,8 +99,13 @@
       "position": "C++\\C# Developer",
       "startDate": "2010-03-31",
       "endDate": "2012-10-31",
-      "highlights": [],
-      "summary": "Designed and implemented UI on embedded system for complex embedded equipment. Used OOP, C++, patterns, Protobuf, Microchip Harmony, PIC32, Visual Studio, NIOS II, TI DSP, Custom networking, FPGA, Verilog.\n• Developed version of the UI for Linux embedded platform. Used LFS, configured display driver, kernel, Device Tree Compiler.\n• Developed instrumental and research software with C++, C#, Java for Windows and embedded systems. Applied hardware skills: wiring, soldering, testing, signal measurement with oscilloscope.",
+      "highlights": [
+        "Designed and implemented UI on embedded system for complex embedded equipment. Used OOP, C++, patterns, Protobuf, Microchip Harmony, PIC32, Visual Studio, NIOS II, TI DSP, Custom networking, FPGA, Verilog",
+        "Developed version of the UI for Linux embedded platform. Used LFS, configured display driver, kernel, Device Tree Compiler",
+        "Developed instrumental and research software with C++, C#, Java for Windows and embedded systems",
+        "Applied hardware skills: wiring, soldering, testing, signal measurement with oscilloscope"
+      ],
+      "summary": "Development of hardware and software in the field of avionics",
       "location": "Russian Federation, Chelyabinsk"
     },
     {
@@ -89,16 +113,26 @@
       "position": "Embedded software engineer",
       "startDate": "2005-11-30",
       "endDate": "2008-06-30",
-      "highlights": [],
-      "summary": "Development of the software for a new product line of pressure sensors. Work in a team. Use of  CMMI models.  Use of CASE-tools ClearCase, ClearQuest , iterative development (parts of RUP methodology), UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns. Regular meetings for code review, the use of Scrum-methodology in the development process. quality control using sixSigma DMAIC in the whole company. \nTech : C++, AVR, ATxMega"
+      "highlights": [
+        "Work in a team. Use of  CMMI models.  Use of CASE-tools ClearCase, ClearQuest , iterative development (parts of RUP methodology)",
+        "UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns",
+        "Regular meetings for code review, the use of Scrum-methodology in the development process. Quality control using sixSigma DMAIC in the whole company",
+        "Tech : C++, AVR, ATxMega"
+      ],
+      "summary": "Development of the software for a new product line of pressure sensors"
     },
     {
       "name": "Interpribor",
       "position": "hardware engineer",
       "startDate": "2005-07-31",
       "endDate": "2005-10-31",
-      "highlights": [],
-      "summary": "1)\tStudy of ZigBee technology and programming of prototype device. \n\tdevelopment of electrical scheme, get familiar with the stack of ZigBee protocols and ZigBee network's topology).  \n\tStudy of CPU Atmel AT90x, TI MSP430\n2)\tDevelopment of digital ultrasonic thickness gauge.\n\tDevelopment of the software to implement algorithm of thickness determination, using СPU Atmel AT90x and FPGA Altera Cyclone. \n\tDevelopment of hardware model of acoustic spectrograph using Verilog language to implement it on FPGA Altera Cyclone. Development and programming on FPGA of the module that searches for the first impulse of acoustic wave, and testing it in emulation mode in the Altera Quartus II development environment. Study of  ModelSim."
+      "highlights": [
+        "Study of ZigBee technology and programming of prototype device. Development of electrical scheme, get familiar with the stack of ZigBee protocols and ZigBee network's topology",
+        "Development of digital ultrasonic thickness gauge. Development of the software to implement algorithm of thickness determination",
+        "Development of hardware model of acoustic spectrograph using Verilog language",
+        "CPU Atmel AT90x, TI MSP430, FPGA Altera Cyclone. Tools: ModelSim, Altera Quartus II"
+      ],
+      "summary": "Development of hardware and software for measurement equipment"
     }
   ],
   "volunteer": [],
@@ -127,7 +161,7 @@
       "title": "Diploma for participance in StarLine Hackathon 2020",
       "date": "2020-03-31",
       "awarder": "StarLine",
-      "summary": "https://robofinist.ru/event/info/short/id/339\nhttps://robofinist.ru/api/v1/data/events/diplomas/28771/filename/000-028-771.pdf"
+      "summary": "https://robofinist.ru/event/info/short/id/339 https://robofinist.ru/api/v1/data/events/diplomas/28771/filename/000-028-771.pdf"
     }
   ],
   "certificates": [
@@ -166,78 +200,27 @@
   "skills": [
     {
       "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JDBC",
-      "level": "",
-      "keywords": []
+      "level": "Middle",
+      "keywords": ["Java Core", "JDBC", "Spring Framework"]
     },
     {
       "name": "C++",
-      "level": "",
-      "keywords": []
+      "level": "Middle",
+      "keywords": ["C++98", "Qt", "QML", "ROS2"]
     },
     {
-      "name": "Spring Framework",
-      "level": "",
-      "keywords": []
+      "name": "ML",
+      "level": "Middle",
+      "keywords": ["Python", "OpenCV", "Neural Networks", "Computer Vision", "Re-Identification", "Detection", "Segmentation", "CVAT", "celery", "numpy", "matplotlib"]
     },
     {
-      "name": "OpenCV",
-      "level": "",
-      "keywords": []
+      "name": "Tools",
+      "keywords": ["docker", "docker-compose", "git", "Jenkins", "AWS", "Linux"]
     },
     {
-      "name": "Docker",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Artificial Neural Networks",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Qt",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microcontrollers",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Jenkins",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Computer Vision",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Embedded Software",
-      "level": "",
-      "keywords": []
+      "name": "Hardware",
+      "level": "Middle",
+      "keywords": ["Microcontrollers", "Embedded Software", "Microchip", "PIC32", "Cyclone 2", "FPGA", "NIOS 2"]
     }
   ],
   "languages": [
@@ -246,9 +229,28 @@
       "fluency": "B1"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Robotics", 
+      "keywords": ["ROS", "ML", "AI", "Computer Vision"]
+    },
+    {
+      "name": "UI & Automation", 
+      "keywords": ["CI/CD", "Java", "Spring", "Flutter"]
+    },
+    {
+      "name": "Machine Learning", 
+      "keywords": ["AI", "Computer Vision", "Sound processing"]
+    }
+  ],
   "references": [],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Mower robot",
+      "description": "Autonomous lawn mower with advanced AI capabilities",
+      "url": "https://robotic.engix.ie/"
+    }
+  ],
   "meta": {
     "theme": "elegant",
     "version": "v1.0.0",
