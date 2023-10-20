@@ -45,8 +45,9 @@
       "startDate": "2018-12-31",
       "endDate": "2022-05-31",
       "highlights": [
-        "Developing, training, optimizing and evaluating machine learning models with C++, Python. PyTorch, tensorflow, mmdetection",
-        "Automated data preparation, annotation, CI/CD with CVAT, Linux, Docker"
+        "Developing, training, optimizing and evaluating machine learning models for Object Re-Identification",
+        "Data preparation and annotation pipelines with CVAT, celery",
+        "Tools and frameworks: C++/Python. PyTorch, fast-reid, mmdetection. CVAT, AWS, EC2, Sagemaker. Linux, Docker, CI/CD"
       ],
       "summary": "Development of data pipelines and experimenting with ML approaches",
       "url": "https://www.linkedin.com/company/its-partner/",
