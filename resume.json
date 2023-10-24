@@ -46,7 +46,7 @@
       "endDate": "2022-05-31",
       "highlights": [
         "Developing, training, optimizing and evaluating machine learning models for Object Re-Identification",
-        "Data preparation and annotation pipelines with CVAT, celery",
+        "Data preparation and annotation pipelines with CVAT, celery, DynamoDb (NoSQL)",
         "Tools and frameworks: C++/Python. PyTorch, fast-reid, mmdetection. CVAT, AWS, EC2, Sagemaker. Linux, Docker, CI/CD"
       ],
       "summary": "Development of data pipelines and experimenting with ML approaches",
@@ -61,7 +61,7 @@
       "highlights": [
         "Developed JDBC driver for Mainframe Database",
         "Used Java Core, Collections, ByteBuffers, Reflection, Networking, Custom protocol, Cryptography: AES, Kerberos, multithreading, regex, OOP, patterns, Unit Testing, Functional Testing, Knowledge Transfer/Reuse from ODBC team",
-        "Developed Eclipse database UI. Used Eclipse RCP, Legacy Code, Refactoring, Code reuse, SWT", 
+        "Developed Eclipse database UI. Used Eclipse RCP, Legacy Code, Refactoring, Code reuse, SWT",
         "Led a team of engineers to write a database web UI and entered it into Rocket Software's Boston hackathon. Used Spring Boot, Hibernate, DOJO",
         "Work in an international team, weekly meetings, Git, Subversion, Test Driven Development, QA, build automation with Bamboo, task management with Jira"
       ],
@@ -232,15 +232,15 @@
   ],
   "interests": [
     {
-      "name": "Robotics", 
+      "name": "Robotics",
       "keywords": ["ROS", "ML", "AI", "Computer Vision"]
     },
     {
-      "name": "UI & Automation", 
+      "name": "UI & Automation",
       "keywords": ["CI/CD", "Java", "Spring", "Flutter"]
     },
     {
-      "name": "Machine Learning", 
+      "name": "Machine Learning",
       "keywords": ["AI", "Computer Vision", "Sound processing"]
     }
   ],
