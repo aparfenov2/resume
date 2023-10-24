@@ -1,0 +1,50 @@
+﻿## **Aleksei Parfenov**
+{{basics.summary}}
+|||
+| - | - |
+|Location|Chelyabinsk, Russia|
+|Email |[kantengri3@gmail.com](mailto:aparfenov2@yandex.ru)|
+|LinkedIn|[linkedin.com/in/aparfenov2](https://www.linkedin.com/in/aparfenov2/)|
+|Blog|[kantengri.blogspot.com](http://kantengri.blogspot.com/)|
+|Github|[github.com/kantengri](https://github.com/kantengri)|
+|Telegram|@aparfenov2|
+
+**Summary of qualifications:**
+
+|Over 10 years in software engineering<br>System software development|Computer languages: Java, C/C++, Python<br>Languages: Russian, Fluent; English, IELTS 6|
+| - | - |
+
+**Employment History:**
+
+{% for wrk in work %}
+
+|**{{wrk.name}}**|[{{wrk.url if 'url' in wrk else ''}}]({{wrk.url if 'url' in wrk else ''}})|
+| :- | -: |
+|{{wrk.position}}|*{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y')}}*|
+{% for highlight in wrk.highlights %}
+- {{highlight}}
+{% endfor %}
+{% endfor %}
+
+
+**Education:**
+- **2003 – 2005 South Ural State University**
+
+Theory and practice of English language, Diploma ПП №761109
+
+- **2001 – 2005 South Ural State University**
+
+Design and development of electronic equipment, Diploma ВСВ 0728434
+
+**Professional Training:**
+
+- 2019, **Deep Learning Specialization**, @Coursera<br>https://www.coursera.org/account/accomplishments/specialization/certificate/6WB33V3ULXKB
+
+- Apr 2018 - June 2018 **Computer Vision School at 3DiVi**
+
+    - During the training developed basic hand and face detector for RGB-D image source and won 2nd place with it at local competition.
+    - Synthesis and augmentation of training data with 3D modelling software Blender. Training and validation of convolutional neural networks. Python: Keras, Tensorflow.
+    - Covered Topics: PCA, RANSAC, non-max supression, eigenvalues, rotation matrix, quaternions, LSQ, mean shift, ICP, SLIC, SVM, HOG, KNN, SIFT, matching, neural networks basics.
+
+- 2017, **IELTS Certificate**, obtained level 6
+
