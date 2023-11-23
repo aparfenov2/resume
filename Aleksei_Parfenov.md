@@ -18,6 +18,14 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 
 
 
+|**BrainShells**|[https://chelyabinsk.hh.ru/employer/5561311](https://chelyabinsk.hh.ru/employer/5561311)|
+| :- | -: |
+|Java Developer|*Apr 2023 – Jul 2023*|
+
+- Developing Java backend for Poker clients (Java Core, Git)
+
+
+
 |**NIIIT-RK**|[http://niiit-rk.ru/](http://niiit-rk.ru/)|
 | :- | -: |
 |C++/Python Software Engineer|*Oct 2022 – Apr 2023*|
@@ -101,8 +109,6 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 - UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns
 
 - Regular meetings for code review, the use of Scrum-methodology in the development process. Quality control using sixSigma DMAIC in the whole company
-
-- Tech : C++, AVR, ATxMega
 
 
 

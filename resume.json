@@ -27,6 +27,18 @@
   },
   "work": [
     {
+        "name": "BrainShells",
+        "position": "Java Developer",
+        "startDate": "2023-04-15",
+        "endDate": "2023-07-15",
+        "highlights": [
+          "Developing Java backend for Poker clients (Java Core, Git)"
+        ],
+        "summary": "",
+        "url": "https://chelyabinsk.hh.ru/employer/5561311",
+        "location": "Remote"
+    },
+    {
       "name": "NIIIT-RK",
       "position": "C++/Python Software Engineer",
       "startDate": "2022-10-30",
@@ -117,8 +129,7 @@
       "highlights": [
         "Work in a team. Use of  CMMI models.  Use of CASE-tools ClearCase, ClearQuest , iterative development (parts of RUP methodology)",
         "UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns",
-        "Regular meetings for code review, the use of Scrum-methodology in the development process. Quality control using sixSigma DMAIC in the whole company",
-        "Tech : C++, AVR, ATxMega"
+        "Regular meetings for code review, the use of Scrum-methodology in the development process. Quality control using sixSigma DMAIC in the whole company"
       ],
       "summary": "Development of the software for a new product line of pressure sensors"
     }
