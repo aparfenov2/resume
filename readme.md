@@ -22,7 +22,7 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 | :- | -: |
 |Java Developer|*Apr 2023 – Jul 2023*|
 
-- Developing Java backend for Poker clients (Java Core, Git)
+- Developing Java backend for game clients (Java Core, Git)
 
 
 
