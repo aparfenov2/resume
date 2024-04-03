@@ -1,0 +1,46 @@
+﻿## **Парфенов Алексей**
+{{basics.summary}}
+|||
+| - | - |
+|Проживание|г. Челябинск, РФ|
+|Email |[kantengri3@gmail.com](mailto:aparfenov2@yandex.ru)|
+|LinkedIn|[linkedin.com/in/aparfenov2](https://www.linkedin.com/in/aparfenov2/)|
+|Blog|[kantengri.blogspot.com](http://kantengri.blogspot.com/)|
+|Github|[github.com/kantengri](https://github.com/kantengri)|
+|Telegram|@aparfenov2|
+
+**Кратко о себе:**
+
+|Более 10 лет в разработке ПО<br>Разработка системного ПО|Языки: Java, C/C++, Python, C#<br>Языки: Русский; Английский, IELTS 6|
+| - | - |
+
+**Трудовая история:**
+
+{% for wrk in work %}
+
+|**{{wrk.name}}**|[{{wrk.url if 'url' in wrk else ''}}]({{wrk.url if 'url' in wrk else ''}})|
+| :- | -: |
+|{{wrk.position}}|*{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y')}}*|
+{% for highlight in wrk.highlights %}
+- {{highlight}}
+{% endfor %}
+{% endfor %}
+
+
+**Образование:**
+- **2003 – 2005 Южно-Уральский Государственный Университет**
+
+Теория и практика Английского языка, Диплом ПП №761109
+
+- **2001 – 2005 Южно-Уральский Государственный Университет**
+
+Конструирование и Проектирование Радиоаппаратуры, Диплом ВСВ 0728434
+
+**Профессиональное обучение:**
+
+- 2019, **Deep Learning Specialization**, @Coursera<br>https://www.coursera.org/account/accomplishments/specialization/certificate/6WB33V3ULXKB
+
+- Apr 2018 - June 2018 **Школа Компьютерного Зрения в 3DiVi**
+
+- 2017, **IELTS Certificate**, уровень 6
+

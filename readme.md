@@ -18,6 +18,16 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 
 
 
+|**KOMPAS**|[https://www.kompas.aero](https://www.kompas.aero)|
+| :- | -: |
+|C#/C++ Developer|*Sep 2023 – Apr 2024*|
+
+- Implemented control parameters measurement subsystem
+
+- Used C# for high-level logic, C++  for low-level
+
+
+
 |**BrainShells**|[https://chelyabinsk.hh.ru/employer/5561311](https://chelyabinsk.hh.ru/employer/5561311)|
 | :- | -: |
 |Java Developer|*Apr 2023 – Jul 2023*|

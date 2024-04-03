@@ -27,6 +27,19 @@
   },
   "work": [
     {
+        "name": "KOMPAS",
+        "position": "C#/C++ Developer",
+        "startDate": "2023-09-15",
+        "endDate": "2024-04-03",
+        "highlights": [
+          "Implemented control parameters measurement subsystem",
+          "Used C# for high-level logic, C++  for low-level"
+        ],
+        "summary": "Development of Ground Based Augmentation System (GBAS)",
+        "url": "https://www.kompas.aero",
+        "location": "On-Site"
+    },
+    {
         "name": "BrainShells",
         "position": "Java Developer",
         "startDate": "2023-04-15",
@@ -138,17 +151,17 @@
   "education": [
     {
       "institution": "South Ural State University (SUSU)",
-      "area": "Hardware engineering",
+      "area": "Theory and practice of English language, Diploma ПП №761109",
       "studyType": "Bachelor",
-      "startDate": "2001-12-30",
+      "startDate": "2003-12-30",
       "endDate": "2005-12-30",
       "score": "",
       "courses": []
     },
     {
       "institution": "Southern Urals State University",
-      "area": "Computer Software Engineering",
-      "studyType": "Master's degree - engineering radioelectronic devices",
+      "area": "Design and development of electronic equipment, Diploma ВСВ 0728434",
+      "studyType": "Master's",
       "startDate": "2001-12-30",
       "endDate": "2005-12-30",
       "score": "",

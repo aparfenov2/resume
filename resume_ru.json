@@ -1,0 +1,277 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Парфенов Алексей",
+    "label": "Программист",
+    "image": "",
+    "email": "kantengri3@gmail.com",
+    "phone": "",
+    "url": "https://t.me/aparfenov2",
+    "summary": "Опыт разработки ПО > 10 лет. Основные языки программирования: Python, C++, Java, C#",
+    "location": {
+      "countryCode": "RU",
+      "address": "г. Челябинск"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aparfenov2",
+        "url": "https://www.linkedin.com/in/aparfenov2/"
+      },
+      {
+        "network": "Telegram",
+        "username": "aparfenov2",
+        "url": "https://t.me/aparfenov2"
+      }
+    ]
+  },
+  "work": [
+    {
+        "name": "ПО Компас",
+        "position": "Программист C#/C++",
+        "startDate": "2023-09-15",
+        "endDate": "2024-04-03",
+        "highlights": [
+          "Разработал подсистему вычисления параметров мониторинга",
+          "Использовал C# для логики верхнего уровня, C++ для критических вычислений"
+        ],
+        "summary": "Разработка Локальной Контрольно-Корректирующей Станции",
+        "url": "https://www.kompas.aero",
+        "location": "В офисе"
+    },
+    {
+        "name": "BrainShells",
+        "position": "Программист Java",
+        "startDate": "2023-04-15",
+        "endDate": "2023-07-15",
+        "highlights": [
+          "Разработка бекенда на Java для игровых приложений (Java Core, Git)"
+        ],
+        "summary": "",
+        "url": "https://chelyabinsk.hh.ru/employer/5561311",
+        "location": "Удаленно"
+    },
+    {
+      "name": "NIIIT-RK",
+      "position": "Программист C++/Python",
+      "startDate": "2022-10-30",
+      "endDate": "2023-04-30",
+      "highlights": [
+        "Эксперименты ML с моделями предсказания положения посадочной платформы (Python, Pytorch, numpy, OpenCV)",
+        "Разработка приложения на Qt (Python, C++, Qt. QML, ROS2)"
+      ],
+      "summary": "",
+      "url": "http://niiit-rk.ru/",
+      "location": "г. Челябинск"
+    },
+    {
+      "name": "Arlo",
+      "position": "Инженер-программист CV/ML",
+      "startDate": "2018-12-30",
+      "endDate": "2022-05-30",
+      "highlights": [
+        "Разработка, тренировка, оптимизция моделей, разработка метрик для задачи повторной идентификации на видео с камер наблюдения",
+        "Подготовка данных для тренировки, разработка конвеера аннотаций видео файлов с CVAT, celery, DynamoDb (NoSQL)",
+        "Инструменты разработки: C++/Python. PyTorch, fast-reid, mmdetection. CVAT, AWS, EC2, Sagemaker. Linux, Docker, CI/CD"
+      ],
+      "summary": "Разработка процессов обработки данных, эксперименты с ML моделями",
+      "url": "https://www.arlo.com/",
+      "location": "г. Минск, р. Беларусь"
+    },
+    {
+      "name": "Rocket Software",
+      "position": "Программист Java",
+      "startDate": "2014-11-30",
+      "endDate": "2018-12-30",
+      "highlights": [
+        "Дорабатывал драйвер JDBC для базы данных мэйнфрейма IBM",
+        "Использовано Java Core, Collections, ByteBuffers, Reflection, Networking, Custom protocol, Cryptography: AES, Kerberos, multithreading, regex, OOP, patterns, Unit Testing, Functional Testing",
+        "Портировал приложение управления базой данных с Eclipse на Eclipse RCP (Web). Выйграл конкурс на участие в Rocket Software's Boston hackathon",
+        "Разработал Web приложение на базе Spring Boot, Hibernate, DOJO и повторно участвовал в хакатоне",
+        "Работал в международной команде. Использовал Git, Subversion, Test Driven Development, QA, автоматизация тестирования Bamboo, управление задачами в Jira"
+      ],
+      "summary": "Разработка на Java Core",
+      "url": "https://www.linkedin.com/company/rocket-software/",
+      "location": "г. Челябинск"
+    },
+    {
+      "name": "3DiVi Inc.",
+      "position": "Программист (стажер)",
+      "startDate": "2017-09-30",
+      "endDate": "2018-07-30",
+      "highlights": [
+        "Разработал простой детектор рук и лица по данным с RGB-D камеры и занял 2ое место на внутреннем конкурсе",
+        "Синтез и аугментация трехмерных тренировочных данных в Blender. Тренировка и оценка моделей компьютерного зрения с Python, Keras, Tensorflow",
+        "Освоенные методы: PCA, RANSAC, non-max supression, eigenvalues, rotation matrix, quaternions, LSQ, mean shift, ICP, SLIC, SVM, HOG, KNN, SIFT, matching, Neural Networks"
+      ],
+      "summary": "Укрепление знаний в ML",
+      "url": "https://www.linkedin.com/company/3divi-company/",
+      "location": "г. Челябинск"
+    },
+    {
+      "name": "Ланит-Урал",
+      "position": "Программист Java",
+      "startDate": "2012-12-30",
+      "endDate": "2014-12-30",
+      "highlights": [
+        "Разработка форм Портала Государственных Услуг",
+        "Разработал веб-приложение для графического рисования форм на Spring, JavaScript, JQuery, ZK, FreeMarker"
+      ],
+      "summary": "Разработка Портала Государственных Услуг и реализация бизнес-процессов",
+      "location": "г. Челябинск"
+    },
+    {
+      "name": "НПО РТС",
+      "position": "Программист C++\\C#",
+      "startDate": "2010-03-30",
+      "endDate": "2012-10-30",
+      "highlights": [
+        "Разработал полностью программную часть прибора для измерения параметров сигналов",
+        "Использовал OOP, C++, patterns, Protobuf, Microchip Harmony, PIC32, Visual Studio, NIOS II, TI DSP, Custom networking, FPGA, Verilog",
+        "Разработал версию ПО для запуска в Linux-совместимых системах с применением LFS, display driver, kernel, Device Tree Compiler",
+        "Разрабатывал ПО для управления различной аппаратурой на C++, C#, Java",
+        "Приобрел навыки в настройке и тестировании аппаратуры и работы с инструментом"
+      ],
+      "summary": "Разработка ПО в области наземного оборудования",
+      "location": "г. Челябинск"
+    },
+    {
+      "name": "METRAN IG",
+      "position": "Программист встраиваемого ПО",
+      "startDate": "2005-11-30",
+      "endDate": "2008-06-30",
+      "highlights": [
+        "В команде разрабатывал ПО для умных датчиков давления",
+        "Использовал протоколы RS485, CAN, RS232",
+        "Использовал обьектно-ориентированный подход к разработке ПО по методологии Scrum"
+      ],
+      "summary": "Разработка ПО для умных датчиков давления"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Южно-Уральский Государственный Университет",
+      "area": "Конструирование и Проектирование Радиоаппаратуры",
+      "studyType": "Специалист",
+      "startDate": "2001-12-30",
+      "endDate": "2005-12-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Южно-Уральский Государственный Университет",
+      "area": "Теория и практика Английского языка",
+      "studyType": "Теория и практика Английского языка",
+      "startDate": "2003-12-30",
+      "endDate": "2005-12-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Диплом участника StarLine Hackathon 2020",
+      "date": "2020-03-30",
+      "awarder": "StarLine",
+      "summary": "https://robofinist.ru/event/info/short/id/339 https://robofinist.ru/api/v1/data/events/diplomas/28771/filename/000-028-771.pdf"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "English  Upper-Intermediate",
+      "issuer": "The Engilsh Club Chelyabinsk",
+      "startDate": "2015-10-30",
+      "url": "http://enclub.ru/"
+    },
+    {
+      "name": "IELTS, score 6",
+      "issuer": "ielts.ru",
+      "endDate": "2019-07-30",
+      "startDate": "2017-07-30"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera",
+      "startDate": "2019-03-30",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/6WB33V3ULXKB"
+    },
+    {
+      "name": "CUDA Progrmming Masterclass",
+      "issuer": "Udemy",
+      "startDate": "2019-06-30",
+      "url": "https://www.udemy.com/certificate/UC-24TEZUNK/"
+    },
+    {
+      "name": "Self-Driving Cars Specialization",
+      "issuer": "Coursera",
+      "startDate": "2019-10-30",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/JYWLBCCDGKFG"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Middle",
+      "keywords": ["Java Core", "JDBC", "Spring Framework"]
+    },
+    {
+        "name": "C#",
+        "level": "Middle",
+        "keywords": ["Core", "Native Interop"]
+      },
+      {
+      "name": "C++",
+      "level": "Middle",
+      "keywords": ["C++98", "Qt", "QML", "ROS2"]
+    },
+    {
+      "name": "ML",
+      "level": "Middle",
+      "keywords": ["Python", "OpenCV", "Neural Networks", "Computer Vision", "Re-Identification", "Detection", "Segmentation", "CVAT", "celery", "numpy", "matplotlib"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["docker", "docker-compose", "git", "Jenkins", "AWS", "Linux"]
+    },
+    {
+      "name": "Hardware",
+      "level": "Middle",
+      "keywords": ["Microcontrollers", "Embedded Software", "Microchip", "PIC32", "Cyclone 2", "FPGA", "NIOS 2"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Robotics",
+      "keywords": ["ROS", "ML", "AI", "Computer Vision"]
+    },
+    {
+      "name": "UI & Automation",
+      "keywords": ["CI/CD", "Java", "Spring", "Flutter"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["AI", "Computer Vision", "Sound processing"]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Mower robot",
+      "description": "Autonomous lawn mower with advanced AI capabilities",
+      "url": "https://robotic.engix.ie/"
+    }
+  ],
+  "meta": {
+    "theme": "elegant",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
