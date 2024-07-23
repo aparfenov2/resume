@@ -1,5 +1,4 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Aleksey Parfyonov",
     "label": "Computer Vision/Machine Learning Engineer",
@@ -30,10 +29,13 @@
         "name": "KOMPAS",
         "position": "C#/C++ Developer",
         "startDate": "2023-09-15",
-        "endDate": "2024-04-03",
+        "endDate": "",
         "highlights": [
-          "Implemented control parameters measurement subsystem",
-          "Used C# for high-level logic, C++  for low-level"
+          "Development of GNSS assisted landing system",
+          "Implementing software components according to specification",
+          "Offline and online testing with Python scripting and automation, utilizing MQTT telemetry data",
+          "Implemented in Rust language high-loaded parts of the software",
+          "Used C# for high-level logic, Rust, C++ for low-level. Use of Git, docker, python"
         ],
         "summary": "Development of Ground Based Augmentation System (GBAS)",
         "url": "https://www.kompas.aero",
@@ -144,7 +146,8 @@
         "UML- description of software architecture (structure diagrams, behavior diagrams) , Object-oriented programming on C++ with full use of design patterns",
         "Regular meetings for code review, the use of Scrum-methodology in the development process. Quality control using sixSigma DMAIC in the whole company"
       ],
-      "summary": "Development of the software for a new product line of pressure sensors"
+      "summary": "Development of the software for a new product line of pressure sensors",
+      "location": "Russian Federation, Chelyabinsk"
     }
   ],
   "volunteer": [],

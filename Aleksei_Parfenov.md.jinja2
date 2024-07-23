@@ -20,7 +20,7 @@
 
 |**{{wrk.name}}**|[{{wrk.url if 'url' in wrk else ''}}]({{wrk.url if 'url' in wrk else ''}})|
 | :- | -: |
-|{{wrk.position}}|*{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y')}}*|
+|{{wrk.position}}|*{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y') if wrk.endDate != "" else 'Now'}}*|
 {% for highlight in wrk.highlights %}
 - {{highlight}}
 {% endfor %}

@@ -20,11 +20,17 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 
 |**KOMPAS**|[https://www.kompas.aero](https://www.kompas.aero)|
 | :- | -: |
-|C#/C++ Developer|*Sep 2023 – Apr 2024*|
+|C#/C++ Developer|*Sep 2023 – Now*|
 
-- Implemented control parameters measurement subsystem
+- Development of GNSS assisted landing system
 
-- Used C# for high-level logic, C++  for low-level
+- Implementing software components according to specification
+
+- Offline and online testing with Python scripting and automation, utilizing MQTT telemetry data
+
+- Implemented in Rust language high-loaded parts of the software
+
+- Used C# for high-level logic, Rust, C++ for low-level. Use of Git, docker, python
 
 
 

@@ -117,7 +117,6 @@ def write(output: str, fd: io.TextIOWrapper) -> None:
     fd.write("\n")
     fd.flush()
 
-
 def default_context() -> Dict[str, Any]:
     return {
         "jmeta": {
