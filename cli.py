@@ -10,7 +10,7 @@ import json
 import yaml
 import argparse
 import platform
-
+import locale
 from datetime import datetime
 
 from pathlib import Path
@@ -74,6 +74,9 @@ def parse_args(arguments: List[str]) -> argparse.Namespace:
         help="Print the Jinja template render context prior to the rendered template."
         " The render context is printed to stdout."
     )
+
+    parser.add_argument("--locale")
+
     return parser.parse_args(arguments)
 # fmt: on
 
@@ -161,7 +164,10 @@ def main_deprecated() -> None:
 
 
 def main() -> None:
-    entrypoint(parse_args(sys.argv[1:]))
+    args = parse_args(sys.argv[1:])
+    if args.locale is not None:
+        locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
+    entrypoint(args)
 
 if __name__ == '__main__':
     main()

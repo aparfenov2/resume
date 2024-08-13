@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Style-Type" content="text/css" />
     <meta name="keywords" content="Java" />
     <meta name="generator" content="Aspose.Words for .NET 23.10.0" />
-    <title>Программист C++</title>
+    <title>{{basics['label']}}</title>
     <style type="text/css">
         body {
             line-height: 115%;
@@ -769,7 +769,7 @@
                 <td style="width:219.6pt; padding:2.75pt; vertical-align:top">
                     <p class="TableContents"
                         style="margin-bottom:2pt; text-align:right; font-size:10pt; background-color:transparent"><span
-                            style="font-family:Arial; font-weight:normal">{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y')}}</span></p>
+                            style="font-family:Arial; font-weight:normal">{{jmeta.date.strptime(wrk.startDate, '%Y-%m-%d').strftime('%b %Y')}} – {{jmeta.date.strptime(wrk.endDate, '%Y-%m-%d').strftime('%b %Y') if wrk.endDate != "" else 'наст.вр.'}}</span></p>
                 </td>
             </tr>
         </table>
