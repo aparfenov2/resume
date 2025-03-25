@@ -6,7 +6,7 @@
     "email": "kantengri3@gmail.com",
     "phone": "",
     "url": "https://t.me/aparfenov2",
-    "summary": "Professional Software Developer with over 10 years of experience. Key skills: Python, C++, Java",
+    "summary": "Professional Software Developer with over 10 years of experience. Key skills: Python, C++, Machine Learning",
     "location": {
       "countryCode": "RU",
       "address": "Russia, Chelyabinsk"
@@ -27,35 +27,22 @@
   "work": [
     {
         "name": "KOMPAS",
-        "position": "C#/C++ Developer",
+        "position": "Python Developer",
         "startDate": "2023-09-15",
         "endDate": "",
         "highlights": [
-          "Development of GNSS assisted landing system",
-          "Implementing software components according to specification",
-          "Offline and online testing with Python scripting and automation, utilizing MQTT telemetry data",
-          "Implemented in Rust language high-loaded parts of the software",
-          "Used C# for high-level logic, Rust, C++ for low-level. Use of Git, docker, python"
+            "Development of a satellite navigation-based landing system",
+            "Prototyping, analysis of computational core algorithms",
+            "Integration testing with Python",
+            "Technologies used: Python, MQTT, C#, C++"
         ],
         "summary": "Development of Ground Based Augmentation System (GBAS)",
         "url": "https://www.kompas.aero",
         "location": "On-Site"
     },
     {
-        "name": "BrainShells",
-        "position": "Java Developer",
-        "startDate": "2023-04-15",
-        "endDate": "2023-07-15",
-        "highlights": [
-          "Developing Java backend for game clients (Java Core, Git)"
-        ],
-        "summary": "",
-        "url": "https://chelyabinsk.hh.ru/employer/5561311",
-        "location": "Remote"
-    },
-    {
       "name": "NIIIT-RK",
-      "position": "C++/Python Software Engineer",
+      "position": "Python Software Engineer",
       "startDate": "2022-10-30",
       "endDate": "2023-04-30",
       "highlights": [

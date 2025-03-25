@@ -1,5 +1,5 @@
 ﻿## **Aleksei Parfenov**
-Professional Software Developer with over 10 years of experience. Key skills: Python, C++, Java
+Professional Software Developer with over 10 years of experience. Key skills: Python, C++, Machine Learning
 |||
 | - | - |
 |Location|Chelyabinsk, Russia|
@@ -20,31 +20,21 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 
 |**KOMPAS**|[https://www.kompas.aero](https://www.kompas.aero)|
 | :- | -: |
-|C#/C++ Developer|*Sep 2023 – Now*|
+|Python Developer|*Sep 2023 – Now*|
 
-- Development of GNSS assisted landing system
+- Development of a satellite navigation-based landing system
 
-- Implementing software components according to specification
+- Prototyping, analysis of computational core algorithms
 
-- Offline and online testing with Python scripting and automation, utilizing MQTT telemetry data
+- Offline and online testing in Python
 
-- Implemented in Rust language high-loaded parts of the software
-
-- Used C# for high-level logic, Rust, C++ for low-level. Use of Git, docker, python
-
-
-
-|**BrainShells**|[https://chelyabinsk.hh.ru/employer/5561311](https://chelyabinsk.hh.ru/employer/5561311)|
-| :- | -: |
-|Java Developer|*Apr 2023 – Jul 2023*|
-
-- Developing Java backend for game clients (Java Core, Git)
+- Technologies used: Python, MQTT, C#, C++
 
 
 
 |**NIIIT-RK**|[http://niiit-rk.ru/](http://niiit-rk.ru/)|
 | :- | -: |
-|C++/Python Software Engineer|*Oct 2022 – Apr 2023*|
+|Python Software Engineer|*Oct 2022 – Apr 2023*|
 
 - ML experiments with time-series prediction models (Python, Pytorch, numpy, OpenCV)
 
