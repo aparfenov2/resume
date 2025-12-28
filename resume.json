@@ -27,14 +27,14 @@
   "work": [
     {
         "name": "KOMPAS",
-        "position": "Python Developer",
+        "position": "C++ Developer",
         "startDate": "2023-09-15",
         "endDate": "",
         "highlights": [
-            "Development of a satellite navigation-based landing system",
+            "Development of a satellite navigation landing systems",
             "Prototyping, analysis of computational core algorithms",
             "Integration testing with Python",
-            "Technologies used: Python, MQTT, C#, C++"
+            "Technologies used: Python, CUDA, C++"
         ],
         "summary": "Development of Ground Based Augmentation System (GBAS)",
         "url": "https://www.kompas.aero",

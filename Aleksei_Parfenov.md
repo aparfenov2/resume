@@ -20,15 +20,15 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 
 |**KOMPAS**|[https://www.kompas.aero](https://www.kompas.aero)|
 | :- | -: |
-|Python Developer|*Sep 2023 – Now*|
+|C++ Developer|*Sep 2023 – Now*|
 
-- Development of a satellite navigation-based landing system
+- Development of a satellite navigation landing systems
 
 - Prototyping, analysis of computational core algorithms
 
-- Offline and online testing in Python
+- Integration testing with Python
 
-- Technologies used: Python, MQTT, C#, C++
+- Technologies used: Python, CUDA, C++
 
 
 
