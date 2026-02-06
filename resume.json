@@ -31,18 +31,18 @@
         "startDate": "2023-09-15",
         "endDate": "",
         "highlights": [
-            "Development of a satellite navigation landing systems",
-            "Prototyping, analysis of computational core algorithms",
-            "Integration testing with Python",
-            "Technologies used: Python, CUDA, C++"
+          "Implementation of control algorithms for the airport's GNSS satellite signal correction ground station.  The device has passed testing and received type certification.",
+          "Optimization of GNSS satellite signal simulation software using the NVIDIA CUDA GPU accelerator. A 10-fold increase in performance was achieved.",
+          "Development of software for runway occupancy signaling equipment. The system has been certified and is successfully in operation.",
+          "Technologies used: C++, C#, Python, CUDA"
         ],
-        "summary": "Development of Ground Based Augmentation System (GBAS)",
+        "summary": "Development of ground-based satellite navigation software",
         "url": "https://www.kompas.aero",
         "location": "On-Site"
     },
     {
       "name": "NIIIT-RK",
-      "position": "Python Software Engineer",
+      "position": "C++ Software Engineer",
       "startDate": "2022-10-30",
       "endDate": "2023-04-30",
       "highlights": [

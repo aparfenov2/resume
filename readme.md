@@ -22,19 +22,19 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 | :- | -: |
 |C++ Developer|*Sep 2023 – Now*|
 
-- Development of a satellite navigation landing systems
+- Implementation of control algorithms for the airport's GNSS satellite signal correction ground station.  The device has passed testing and received type certification.
 
-- Prototyping, analysis of computational core algorithms
+- Optimization of GNSS satellite signal simulation software using the NVIDIA CUDA GPU accelerator. A 10-fold increase in performance was achieved.
 
-- Integration testing with Python
+- Development of software for runway occupancy signaling equipment. The system has been certified and is successfully in operation.
 
-- Technologies used: Python, CUDA, C++
+- Technologies used: C++, C#, Python, CUDA
 
 
 
 |**NIIIT-RK**|[http://niiit-rk.ru/](http://niiit-rk.ru/)|
 | :- | -: |
-|Python Software Engineer|*Oct 2022 – Apr 2023*|
+|C++ Software Engineer|*Oct 2022 – Apr 2023*|
 
 - ML experiments with time-series prediction models (Python, Pytorch, numpy, OpenCV)
 
