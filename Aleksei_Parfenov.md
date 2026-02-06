@@ -22,11 +22,11 @@ Professional Software Developer with over 10 years of experience. Key skills: Py
 | :- | -: |
 |C++ Developer|*Sep 2023 – Now*|
 
-- Implementation of control algorithms for the airport's GNSS satellite signal correction ground station.  The device has passed testing and received type certification.
+- Implementation of control algorithms for the airport's GNSS satellite signal correction ground station.  The device has passed testing and received type certification
 
-- Optimization of GNSS satellite signal simulation software using the NVIDIA CUDA GPU accelerator. A 10-fold increase in performance was achieved.
+- Optimization of GNSS satellite signal simulation software using the NVIDIA CUDA GPU accelerator. A 10-fold increase in performance was achieved
 
-- Development of software for runway occupancy signaling equipment. The system has been certified and is successfully in operation.
+- Development of software for runway occupancy signaling equipment. The system has been certified and is successfully in operation
 
 - Technologies used: C++, C#, Python, CUDA
 
